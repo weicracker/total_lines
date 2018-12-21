@@ -1,6 +1,7 @@
 # coding=utf-8
 import os
 import time
+# 要统计的源文件路径名称
 basedir = './'
 filelists = []
 # 想要排除的文件名称
